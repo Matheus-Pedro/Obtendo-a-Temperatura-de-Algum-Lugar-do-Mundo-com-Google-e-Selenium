@@ -1,0 +1,2 @@
+# Obtendo-a-Temperatura-de-Algum-Lugar-do-Mundo-com-Google-e-Selenium
+Este repositório contém um código em Python que utiliza a biblioteca Selenium para automatizar a obtenção da temperatura de qualquer localidade do mundo usando o Google. O script permite que o usuário especifique a cidade ou região desejada e, em seguida, extrai a informação da temperatura atual a partir dos resultados da pesquisa do Google.
